@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import { useGlobalContext } from '../context';
-import { useState } from 'react';
 import { RxCrossCircled } from 'react-icons/rx';
 import { natureList } from '../data';
 
